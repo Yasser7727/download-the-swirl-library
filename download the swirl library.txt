@@ -1,0 +1,12 @@
+
+To download the swirl library follow these steps
+
+: Type the following codes
+
+> install.packages("swirl")
+
+> library("swirl") 
+
+Then type:
+
+> swirl()
